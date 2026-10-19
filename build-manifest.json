@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.3-dev.1",
+    "version":  "0.2.5-dev.1",
     "upstream":  "49911afab6eef81f144543710f1aa8021c617ff1",
     "runtime":  "win-x64",
     "licensing":  "testing-unrestricted",
@@ -138,7 +138,7 @@
                   },
                   {
                       "path":  "DEVELOPER-PREVIEW.txt",
-                      "sha256":  "f38fd2ca357944ee3f22bdd823ce044ecb3207f568712bbda2a9bfaff104b230"
+                      "sha256":  "cb6a7b831da4f0cdab8ab06148341ab9811d9af456b06ebf66fd977640493a94"
                   },
                   {
                       "path":  "ExcelDataReader.dll",
@@ -154,19 +154,19 @@
                   },
                   {
                       "path":  "filee-cli.deps.json",
-                      "sha256":  "f44efdc4a439e52c86ec884817a433a83759d2966b3dad498143ee719aac3abd"
+                      "sha256":  "bc9f906480a778fa1726b05e83d84b4074ee7298e0fd5ef8fe5382f48d44229e"
                   },
                   {
                       "path":  "filee-cli.dll",
-                      "sha256":  "fc3646f9343041d02d9b4f72d3ee925c557c4e2201ec68c482061b1dc8068c55"
+                      "sha256":  "8e7781b47c6a5d385820e3e951e815967aa0bd766d5537a03df75634fb46275f"
                   },
                   {
                       "path":  "filee-cli.exe",
-                      "sha256":  "f970223ac54d4fa0be92b9b1f7e3d45326fea47837d6a2c25eb640201d116afd"
+                      "sha256":  "bdacdc2fd742f431023fededc7ec2fbefaacbd16ed1fa8da1fd51301f6c80c13"
                   },
                   {
                       "path":  "filee-cli.pdb",
-                      "sha256":  "1452f4ec280a3435b2138d1f6892775406cb23e4c1b615f47ed7ba0e72474cd8"
+                      "sha256":  "70cb19daad8369146b49341fd4122279a02bb1aee3676802523f3159aaa9ffcf"
                   },
                   {
                       "path":  "filee-cli.runtimeconfig.json",
@@ -178,31 +178,31 @@
                   },
                   {
                       "path":  "Filee.Core.dll",
-                      "sha256":  "606036c4ec91279ee7abd92bd69d44f7f127af2bcfb51b94d10cf4123733f33a"
+                      "sha256":  "a7d8486f8e16ee2ee89c74a340dd9d871aa51485cf4b1f5df4c145582a61236a"
                   },
                   {
                       "path":  "Filee.Core.pdb",
-                      "sha256":  "24455f347a0af89b73564f303baf767ba5904595f0393f2a4089dc0a935cb484"
+                      "sha256":  "dbd4d8380748a732a251cee206c70dd3731ed52c266cf2aa221e80f1f657c991"
                   },
                   {
                       "path":  "Filee.Core.xml",
-                      "sha256":  "5c05fc189f6484d4e163a4fe2afdd5c913e5ae55f2aad10efdd5a4deb07fa477"
+                      "sha256":  "f5b61e6c82d70da6f541d709a36fda370dddd9e4338f43261cbae4255597d62d"
                   },
                   {
                       "path":  "Filee.deps.json",
-                      "sha256":  "490b59a5d0ffbf989f77d26e0fd3fceb55ac1b7f6fafcc2cca56d9c4ac18de6c"
+                      "sha256":  "7283d1bc6a7d3d7f720c3a7517d8c4d620c22cb8701841bf8329c8441013ac91"
                   },
                   {
                       "path":  "Filee.dll",
-                      "sha256":  "efc7148c17faf36ae95f8262a2a4cc27b0ece1cbcaf30c970607706b6abcb8d9"
+                      "sha256":  "fdeaeabe719a5659ff19cb43dedfeaa2e379333c0e9b30f8963391f63b65263b"
                   },
                   {
                       "path":  "Filee.Engines.dll",
-                      "sha256":  "1272a2ea6d3b219e563c28909c2ab28a25459d2d7cea9750ece23cfb04d309c4"
+                      "sha256":  "fe0a325956f8adcec1ecef217851ecfee2c95cfa6b3bf39792c25f3894b20f75"
                   },
                   {
                       "path":  "Filee.Engines.pdb",
-                      "sha256":  "ea3d1a2716673c529c1d198c628392c1e1f8984c6100195243a43e112a2164cc"
+                      "sha256":  "3e204a7fec05e2e377bfce8d36a893b6c29a4e82f557005ed64ac8098942094a"
                   },
                   {
                       "path":  "Filee.Engines.xml",
@@ -210,15 +210,15 @@
                   },
                   {
                       "path":  "Filee.pdb",
-                      "sha256":  "9477c0f9321b4c9d1712789178380bc77c37537c98bf62e0a617c295c5c0e1e0"
+                      "sha256":  "c267bf5cc73aaa5e59cfdaa71a297cb94e16fb622711257ace58db9224cc213b"
                   },
                   {
                       "path":  "Filee.Platform.Linux.dll",
-                      "sha256":  "76ed6faa86e7734b8f2c94d4b31a2e4685b302928abedb26f22a1d541aef2cbb"
+                      "sha256":  "f19a8eea6c839439f12589b37c3c101a750dff807c59a792bfa2aaa6dbc026fd"
                   },
                   {
                       "path":  "Filee.Platform.Linux.pdb",
-                      "sha256":  "1db881c76abbadfb28c057ae36e46faec5779ecb5de9a07c01403c19de824eb8"
+                      "sha256":  "16648e80d3a22c74a03a2c5ff36c93711f78eae9e887ac61635c23a5a21e7528"
                   },
                   {
                       "path":  "Filee.Platform.Linux.xml",
@@ -226,11 +226,11 @@
                   },
                   {
                       "path":  "Filee.Platform.MacOS.dll",
-                      "sha256":  "9ee4541bcfc8b85d72cd647a6837b4643f5ec02ee74db34e47ccdbb486e9f2a6"
+                      "sha256":  "0f386853d592d96a4938abde647d9d7e4c3aec557398109803a8405d843850fb"
                   },
                   {
                       "path":  "Filee.Platform.MacOS.pdb",
-                      "sha256":  "8aaa23c97d4ba3f8f15ad355b49cfadb60f14d207d391c1cdd60ee209583450b"
+                      "sha256":  "3299ae1c90852b6c5f39fb46d219c46acd86e360276a083429b8423dae33f664"
                   },
                   {
                       "path":  "Filee.Platform.MacOS.xml",
@@ -238,11 +238,11 @@
                   },
                   {
                       "path":  "Filee.Platform.Windows.dll",
-                      "sha256":  "84746a587fc01694829e0ec480c31ef0145af06321a0f517c3aac07267de7e87"
+                      "sha256":  "cbcbbdf589105cd0bbaecf8916cf17d701741791935af6be782bbfe26712be20"
                   },
                   {
                       "path":  "Filee.Platform.Windows.pdb",
-                      "sha256":  "457b0a692268560c93037fdaabf816fccb9d55fbd06cdd0c177ac47532ffab10"
+                      "sha256":  "6c0dc51b1bfdde1d4067a51292ef0674e483d4d294429a02cf1231de06a63192"
                   },
                   {
                       "path":  "Filee.Platform.Windows.xml",
@@ -254,11 +254,11 @@
                   },
                   {
                       "path":  "Filee.xml",
-                      "sha256":  "e0359ac95b949cd5cff84f7d08c24a7d08969dffc4bae18623c719c47396b8e0"
+                      "sha256":  "5773623268484363559a104c542e618d303f104f3b3f994e419d281285b322c5"
                   },
                   {
                       "path":  "FormatCove.exe",
-                      "sha256":  "2157446cd5a549a4b49f99513c6f550288c901f24d85849e17f40e759470ab27"
+                      "sha256":  "b1196e0a75f4642c7f029ff6259f0b5347d637e71fad400f75e5e84c1d0160c0"
                   },
                   {
                       "path":  "HarfBuzzSharp.dll",
