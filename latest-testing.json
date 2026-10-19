@@ -1,7 +1,7 @@
 {
-    "version":  "0.2.5-dev.1",
+    "version":  "0.2.6-dev.1",
     "channel":  "testing",
-    "sourceCommit":  "2b3e2b15244be1ceecd29b3ddb32a96ca6970a95",
-    "sha256":  "974cb886be2c8bc61dd4845ff6521210dcd8c5959b089320f6f3da3ede88164f",
-    "url":  "https://github.com/ajleveriza1108/FormatCove-release/releases/download/v0.2.5-dev.1/FormatCove-0.2.5-dev.1-win-x64-20261019-165844-398-c4b83f.zip"
+    "sourceCommit":  "ad8eb418590bffe5821546c0c4e356bb134af521",
+    "sha256":  "6e0e23ba648c73075bbff83e4fcfd411c90da898fb09131437824753e835bbe9",
+    "url":  "https://github.com/ajleveriza1108/FormatCove-release/releases/download/v0.2.6-dev.1/FormatCove-0.2.6-dev.1-win-x64-20261019-174021-313-6a35fc.zip"
 }
